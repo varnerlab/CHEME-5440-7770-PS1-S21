@@ -1,7 +1,8 @@
 # import PKG, activate the project and instaintiate -
 import Pkg
-Pkg.activate()
 Pkg.instantiate()
+Pkg.activate()
+
 
 # include packages -
 using DataFrames
