@@ -1,7 +1,7 @@
 # import PKG, activate the project and instaintiate -
 import Pkg
-Pkg.instantiate()
 Pkg.activate()
+Pkg.instantiate()
 
 
 # include packages -
